@@ -46,7 +46,8 @@ Non-python file
 * Figures - This folder includes all generated figures to be used in reporting
 * README.md - The README file for using this code 
 * License - The License file
-* requirement.txt - This file contains list of packages used in this study
+* requirement.txt - This file contains a list of packages used in this study
+* runtime.txt - This file contains Python version used in this study
 
 
 Python Files:
@@ -55,11 +56,8 @@ Python Files:
 * `3.Experiments for University Classroom Building.ipynb` - This notebook is the main file used to conduct the experiments for university classroom building using parameter settings specified in Setting.py
 * `4.Experiments for Office Building.ipynb` - This notebook is the main file used to conduct the experiments for office building using parameter settings specified in Setting.py
 * `5.Experiments for Primary Classroom Building.ipynb`- This is the main file used to conduct the experiments for primary classroom building using parameter settings specified in Setting.py
-* `Plot CEEMDAN result.ipynb` - This notebook contains the script to plot the Decomposition results
-* `Plot Prediction results using proposed hybrid RF-LSTM based CEEMDAN method.ipynb` - This notebook contains the script to plot the prediction results from proposed method 
-* `Plot Dataset.ipynb` - This notebook contains the script to visualize the data
 * `myfunctions.py` - This python script includes all functions required for building proposed method and other benchmark methods that are used in the experiments
-* `Setting.py` - This is python script includes a number of parameters that are used throughout the functions in the directory
+
 
 
 ## Dataset
@@ -77,43 +75,4 @@ The code that generated results presented in Chapter 4 of the paper can be execu
 `5. Comparative Experiments for France Dataset.ipynb`
 `6. Comparative Experiments for Turkey Dataset.ipynb`
 
-### Workflow
 
-1. Run the `1. Experiments for University Dormitory Building.ipynb`
-   By running all the cell in this notebook, it will:
-   - Train and test the proposed method and other benchmark methods on University Dormitory dataset. 
-   - Generate Table which summarize the performance results of the proposed method and other benchmark methods on University Dormitory dataset. This output is used as part of Table 3 Section 4.4 in the paper
-   - Generate Table which calculate the percentage of improvement of the proposed method and other benchmark methods on University Dormitory dataset. This output is used as part of Table 4 Section 4.4 in the paper 
-
-2. Run the `2. Experiments for University Laboratory Building.ipynb`
-   By running all the cell in this notebook, it will:
-   - Train and test the proposed method and other benchmark methods on University Laboratory dataset. 
-   - Generate Table which summarize the performance results of the proposed method and other benchmark methods on University Laboratory dataset. This output is used as part of  Table 3 Section 4.4 in the paper
-   - Generate Table which calculate the percentage of improvement of the proposed method and other benchmark methods on University Laboratory dataset. This output is used as part of Table 4 Section 4.4 in the paper 
-
-3. Run the `3. Experiments for University Classroom Building.ipynb`
-   By running all the cell in this notebook, it will:
-   - Train and test the proposed method and other benchmark methods on University Classroom dataset. 
-   - Generate Table which summarize the performance results of the proposed method and other benchmark methods on University Classroom dataset. This output is used as part of Table 3 Section 4.4 in the paper
-   - Generate Table which calculate the percentage of improvement of the proposed method and other benchmark methods on University Classroom dataset. This output is used as part of Table 4 Section 4.4 in the paper 
-
-
-4. Run the `4. Experiments for Office Building.ipynb`
-   By running all the cell in this notebook, it will:
-   - Train and test the proposed method and other benchmark methods on Office dataset. 
-   - Generate Table which summarize the performance results of the proposed method and other benchmark methods on Office dataset. This output is used as part of Table 3 Section 4.4 in the paper
-   - Generate Table which calculate the percentage of improvement of the proposed method and other benchmark methods on Office dataset. This output is used as part of Table 4 Section 4.4 in the paper 
-
-5. Run the `5. Experiments for Primary Classroom Building.ipynb`
-   By running all the cell in this notebook, it will:
-   - Train and test the proposed method and other benchmark methods on Primary Classroom dataset. 
-   - Generate Table which summarize the performance results of the proposed method and other benchmark methods on Primary Classroom dataset. This output is used as part of Table 3 Section 4.4 in the paper
-   - Generate Table which calculate the percentage of improvement of the proposed method and other benchmark methods on Primary Classroom dataset. This output is used as part of Table 4 Section 4.4 in the paper 
-
-
-### Plotting of results
-
-1. To visualize the decomposition results `Plot CEEMDAN result.ipynb` must be executed. The output generated from this notebook is used in the Figure 5 Section 4.4 in the paper
-2. To obtain and visualize prediction results using proposed hybrid RF-LSTM based CEEMDAN method,`Plot Prediction results using proposed hybrid RF-LSTM based CEEMDAN method.ipynb` must be executed. The output generated from this notebook is used in the Figure 6 Section 4.4 in the paper         
- 
- 
