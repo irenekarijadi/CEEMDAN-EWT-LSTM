@@ -70,10 +70,10 @@ The code that generated results presented in Chapter 4 of the paper can be execu
 
 
 * `1. Experiments for France Dataset.ipynb` - By running all the cell in this notebook, it will train and test the proposed method and other benchmark methods on France dataset.
-* `2. Experiments for Turkey Dataset.ipynb` - By running all the cell in this notebook, it will train and test the proposed method and other benchmark methods on France dataset.****
+* `2. Experiments for Turkey Dataset.ipynb` - By running all the cell in this notebook, it will train and test the proposed method and other benchmark methods on Turkey dataset.
 * `3. Time Series Cross Validation for France Dataset.ipynb` - By running all the cell in this notebook, it will train and test the proposed method and other benchmark methods on France dataset.
-* `4. Time Series Cross Validation for Turkey Dataset.ipynb` - By running all the cell in this notebook, it will train and test the proposed method and other benchmark methods on France dataset.
-* `5. Comparative Experiments for France Dataset.ipynb` - By running all the cell in this notebook, it will train and test the proposed method and other benchmark methods on France dataset.
-* `6. Comparative Experiments for Turkey Dataset.ipynb`- By running all the cell in this notebook, it will train and test the proposed method and other benchmark methods on France dataset.
+* `4. Time Series Cross Validation for Turkey Dataset.ipynb` - By running all the cell in this notebook, it will train and test the proposed method and other benchmark methods on Turkey dataset.
+* `5. Comparative Experiments for France Dataset.ipynb` - By running all the cell in this notebook, it will do the comparative experiment on France dataset.
+* `6. Comparative Experiments for Turkey Dataset.ipynb`- By running all the cell in this notebook, it will do the comparative experiment of Turkey dataset.
 
 
