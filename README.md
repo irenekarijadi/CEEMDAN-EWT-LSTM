@@ -3,7 +3,7 @@
 
 This is the original source code used for all experiments in the paper ***"Wind Power Forecasting Based on Hybrid CEEMDAN-EWT Deep Learning Method"***
 
-If you use the code in this paper, please cite the paper
+Please cite the paper if you utilize the code in this paper.
 
 ## Authors
 
