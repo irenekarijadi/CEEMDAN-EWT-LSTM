@@ -21,8 +21,8 @@ This is the framework of the proposed method
 
 ## Prerequisites
 The proposed method is coded in Python 3.7.6 and the experiments were performed on Intel Core i3-8130U CPU, 2.20GHz, with a memory size of 4.00 GB.
-The python version is specified in [runtime.txt.](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/runtime.txt)
-In order to run the experiments, a number of packages need to be installed. Here are the list of the package  version that we used to run all the experiments
+The Python version is specified in [runtime.txt.](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/runtime.txt)
+In order to run the experiments, a number of packages need to be installed. Here is the list of the package  version that we used to run all the experiments
 
 * EMD-signal==0.2.10
 * pandas==0.25.3
@@ -42,7 +42,7 @@ In order to run the model, the packages need to be installed first using this li
 
 ## Description of File
 Non-python file
-* Dataset - This folder includes all dataset used in this study
+* Dataset - This folder includes all datasets used in this study
 * Figures - This folder includes all generated figures to be used in reporting
 * README.md - The README file for using this code 
 * License - The License file
@@ -64,8 +64,7 @@ Python Files:
 
 ## Dataset
 The performance of the proposed method is tested by using wind power datasets in two different countries. The first dataset is from a wind farm with an installed capacity of 2050 kW located in 
-[France](https://opendata-renewables.engie.com/explore/?sort=modified), and the second dataset is from a wind farm with an installed capacity of 3600 kW located in T
-[Turkey](https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset)
+[France](https://opendata-renewables.engie.com/explore/?sort=modified), and the second dataset is from a wind farm with an installed capacity of 3600 kW located in[Turkey](https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset)
 
 https://opendata-renewables.engie.com/explore/?sort=modified
 
