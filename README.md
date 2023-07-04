@@ -17,7 +17,8 @@ A precise wind power forecast is required for the renewable energy platform to f
 
 ## Framework
 This is the framework of the proposed method      
-![Alt text](Figures/Framework.png)
+![Alt text]![image](https://github.com/irenekarijadi/CEEMDAN-EWT-LSTM/assets/28720072/6222d1fd-d3ff-4780-b3b5-49d9ad8c3531)
+
 
 ## Prerequisites
 The proposed method is coded in Python 3.7.6 and the experiments were performed on Intel Core i3-8130U CPU, 2.20GHz, with a memory size of 4.00 GB.
