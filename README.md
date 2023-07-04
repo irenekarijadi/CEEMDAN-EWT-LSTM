@@ -63,17 +63,12 @@ Python Files:
 
 
 ## Dataset
-The performance of the proposed method is tested by using wind power datasets in two different countries. The first dataset is from a wind farm with an installed capacity of 2050 kW located in France, and the second dataset is from a wind farm with an installed capacity of 3600 kW located in Turkey
+The performance of the proposed method is tested by using wind power datasets in two different countries. The first dataset is from a wind farm with an installed capacity of 2050 kW located in 
+[France](https://opendata-renewables.engie.com/explore/?sort=modified), and the second dataset is from a wind farm with an installed capacity of 3600 kW located in T
+[Turkey](https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset)
 
-We used a public dataset from the [Building Data Genome Project]([https://www.google.com/searchq=building+data+genome+project&oq=Building+Data+Genome+Project&aqs=chrome.0.35i39j69i59l2j69i64j69i59j69i60l3.558j0j7&sourceid=chrome&ie=UTF-8](https://opendata-renewables.engie.com/explore/?sort=modified ) 
+https://opendata-renewables.engie.com/explore/?sort=modified
 
-Five different buildings are used in this study and you can download it here:
-[France](https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset)
-
-
-To visualize hourly energy consumption from five buildings, please  running the `Plot Dataset.ipynb`
-
-![alt text](Figures/hourly%20energy%20consumption%20from%20five%20buildings.png)
 
 
 ## Parameter Setting
