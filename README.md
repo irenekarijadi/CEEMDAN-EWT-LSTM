@@ -64,31 +64,18 @@ Python Files:
 
 ## Dataset
 The performance of the proposed method is tested by using wind power datasets in two different countries. The first dataset is from a wind farm with an installed capacity of 2050 kW located in 
-[France](https://opendata-renewables.engie.com/explore/?sort=modified), and the second dataset is from a wind farm with an installed capacity of 3600 kW located in
+[France](https://opendata-renewables.engie.com/explore/?sort=modified), and the second dataset is from a wind farm with an installed capacity of 3600 kW located in [Turkey](https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset)
 
-[Turkey](https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset)
-
-https://opendata-renewables.engie.com/explore/?sort=modified
-
-
-
-## Parameter Setting
-A number of parameters (e.g. LSTM learning rate, RF feature number, etc) are defined in the `Setting.py`
 
 ## Experiments
-The code that generated results presented in table 3 and 4 Section 4.4 in the paper can be executed from these notebooks:
+The code that generated results presented in Chapter 4 in the paper can be executed from these notebooks:
 
-`1. Experiments for University Dormitory Building.ipynb`
-
-`2. Experiments for University Dormitory Building.ipynb`
-
-`3. Experiments for University Dormitory Building.ipynb`
-
-`4. Experiments for University Dormitory Building.ipynb`
-
-`5. Experiments for University Dormitory Building.ipynb`
-
-notes: The number indicate the order of the files need to be run
+`1. Experiments for France Dataset.ipynb`
+`2. Experiments for Turkey Dataset.ipynb`
+`3. Time Series Cross Validation for France Dataset.ipynb`
+`4. Time Series Cross Validation for Turkey Dataset.ipynb`
+`5. Comparative Experiments for France Dataset.ipynb`
+`6. Comparative Experiments for Turkey Dataset.ipynb`
 
 ### Workflow
 
