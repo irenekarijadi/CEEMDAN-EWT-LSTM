@@ -18,7 +18,8 @@ A precise wind power forecast is required for the renewable energy platform to f
 ## Framework
 This is the framework of the proposed method      
 
-![Screenshot](Proposed Method Framework.jpg)
+![image](https://github.com/irenekarijadi/CEEMDAN-EWT-LSTM/assets/28720072/2e56230f-f2f0-4ea9-b93a-b2f6aa69e084)
+
 
 
 ## Prerequisites
