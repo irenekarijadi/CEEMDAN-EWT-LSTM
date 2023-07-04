@@ -1,7 +1,7 @@
 # CEEMDAN-EWT-LSTM
 ## Wind Power Forecasting Based on Hybrid CEEMDAN- EWT Deep Learning Method
 
-This is the original source code used for all experiments in the paper "Wind Power Forecasting Based on Hybrid CEEMDAN- EWT Deep Learning Method"
+This is the original source code used for all experiments in the paper **"Wind Power Forecasting Based on Hybrid CEEMDAN-EWT Deep Learning Method"**
 
 If you use the code in this paper, please cite the paper
 
@@ -47,7 +47,7 @@ Non-python file
 * README.md - The README file for using this code 
 * License - The License file
 * requirement.txt - This file contains list of packages used in this study
-* runtime.txt - This file contains python version used in this study 
+
 
 Python Files:
 * `1.Experiments for University Dormitory Building.ipynb` - This notebook is the main file used to conduct the experiments for university dormitory building using parameter settings specified in Setting.py
@@ -68,7 +68,7 @@ The performance of the proposed method is tested by using wind power datasets in
 
 
 ## Experiments
-The code that generated results presented in Chapter 4 in the paper can be executed from these notebooks:
+The code that generated results presented in Chapter 4 of the paper can be executed from these notebooks:
 
 `1. Experiments for France Dataset.ipynb`
 `2. Experiments for Turkey Dataset.ipynb`
