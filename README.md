@@ -52,11 +52,11 @@ The performance of the proposed method is tested by using wind power datasets in
 The code that generated results presented in Chapter 4 of the paper can be executed from these notebooks:
 
 
-* `1. Experiments for France Dataset.ipynb` - By running all the cell in this notebook, it will train and test the proposed method and other benchmark methods on France dataset.
-* `2. Experiments for Turkey Dataset.ipynb` - By running all the cell in this notebook, it will train and test the proposed method and other benchmark methods on Turkey dataset.
-* `3. Time Series Cross Validation for France Dataset.ipynb` - By running all the cell in this notebook, it will train and test the proposed method and other benchmark methods on France dataset.
-* `4. Time Series Cross Validation for Turkey Dataset.ipynb` - By running all the cell in this notebook, it will train and test the proposed method and other benchmark methods on Turkey dataset.
-* `5. Comparative Experiments for France Dataset.ipynb` - By running all the cell in this notebook, it will do the comparative experiment on France dataset.
-* `6. Comparative Experiments for Turkey Dataset.ipynb`- By running all the cell in this notebook, it will do the comparative experiment of Turkey dataset.
+* `1. Experiments for France Dataset.ipynb` - By running all the cells in this notebook, it will train and test the proposed method and other benchmark methods on France dataset.
+* `2. Experiments for Turkey Dataset.ipynb` - By running all the cells in this notebook, it will train and test the proposed method and other benchmark methods on Turkey dataset.
+* `3. Time Series Cross Validation for France Dataset.ipynb` - By running all the cells in this notebook, it will train and test the proposed method and other benchmark methods on France dataset.
+* `4. Time Series Cross Validation for Turkey Dataset.ipynb` - By running all the cells in this notebook, it will train and test the proposed method and other benchmark methods on Turkey dataset.
+* `5. Comparative Experiments EEMD_BO_LSTM.ipynb` - By running all the cells in this notebook,  a comparative experiment of the EEMD BO LSTM will be conducted.
+* `6. Comparative Experiments EMD_ENN.ipynb`- By running all the cells in this notebook, a comparative experiment of the EMD ENN will be conducted.
 
 
