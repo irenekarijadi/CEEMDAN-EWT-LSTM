@@ -34,7 +34,7 @@ In order to run the experiments, a number of packages need to be installed. Here
 * sklearn==0.22.1
 * numpy==1.18.1
 * matplotlib
-* ewtpy
+* ewtpy==0.2
 
 The complete list of packages can be found in [requirements.txt.](https://github.com/irenekarijadi/RF-LSTM-CEEMDAN/blob/main/requirements.txt)
 
