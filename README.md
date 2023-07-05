@@ -43,26 +43,6 @@ In order to run the model, the packages need to be installed first using this li
 `pip install -r requirements.txt()`
 
 
-## Description of File
-Non-python file
-* Dataset - This folder includes all datasets used in this study
-* Figures - This folder includes all generated figures to be used in reporting
-* README.md - The README file for using this code 
-* License - The License file
-* requirement.txt - This file contains a list of packages used in this study
-* runtime.txt - This file contains Python version used in this study
-
-
-Python Files:
-* `1.Experiments for University Dormitory Building.ipynb` - This notebook is the main file used to conduct the experiments for university dormitory building using parameter settings specified in Setting.py
-* `2.Experiments for University Laboratory Building.ipynb` - This notebook is the main file used to conduct the experiments for university laboratory building using parameter settings specified in Setting.py
-* `3.Experiments for University Classroom Building.ipynb` - This notebook is the main file used to conduct the experiments for university classroom building using parameter settings specified in Setting.py
-* `4.Experiments for Office Building.ipynb` - This notebook is the main file used to conduct the experiments for office building using parameter settings specified in Setting.py
-* `5.Experiments for Primary Classroom Building.ipynb`- This is the main file used to conduct the experiments for primary classroom building using parameter settings specified in Setting.py
-* `myfunctions.py` - This python script includes all functions required for building proposed method and other benchmark methods that are used in the experiments
-
-
-
 ## Dataset
 The performance of the proposed method is tested by using wind power datasets in two different countries. The first dataset is from a wind farm with an installed capacity of 2050 kW located in 
 [France](https://opendata-renewables.engie.com/explore/?sort=modified), and the second dataset is from a wind farm with an installed capacity of 3600 kW located in [Turkey](https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset)
