@@ -44,16 +44,14 @@ In order to run the model, the packages need to be installed first using this li
 
 
 ## Dataset
-The performance of the proposed method is tested by using wind power datasets in two different countries. The first dataset is from a wind farm with an installed capacity of 2050 kW located in 
-[France](https://opendata-renewables.engie.com/explore/?sort=modified), and the second dataset is from a wind farm with an installed capacity of 3600 kW located in [Turkey](https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset)
-
-Source:
-* France Dataset: Engie, The La Haute Borne wind farm,2018,[online] Available: https://opendata-renewables.engie.com/explore/?sort=modified
-* Turkey Dataset: B. Erisen, Wind Turbine SCADA Dataset, 2018, [online] Available: https://www.kaggle.com/berkerisen/wind-turbine-scada-dataset. 
+The performance of the proposed method is tested by using wind power datasets in two different countries. The first dataset is from a wind farm with an installed capacity of 2050 kW located in France, and the second dataset is from a wind farm with an installed capacity of 3600 kW located in Turkey
 
 The dataset used in this study can be downloaded here:
 https://drive.google.com/drive/folders/1uwYtYdqzDw4ozum5xnuLAXkyb4pjbApc?usp=sharing 
 
+Source:
+* France Dataset: Engie, The La Haute Borne wind farm,2018,[online] Available: https://opendata-renewables.engie.com/explore/?sort=modified
+* Turkey Dataset: B. Erisen, Wind Turbine SCADA Dataset, 2018, [online] Available: https://www.kaggle.com/berkerisen/wind-turbine-scada-dataset. 
 
 
 ## Experiments
@@ -62,9 +60,8 @@ The code that generated results presented in Chapter 4 of the paper can be execu
 
 * `1. Experiments for France Dataset.ipynb` - By running all the cells in this notebook, it will train and test the proposed method and other benchmark methods on the France dataset.
 * `2. Experiments for Turkey Dataset.ipynb` - By running all the cells in this notebook, it will train and test the proposed method and other benchmark methods on the Turkey dataset.
-* `3. Time Series Cross Validation for France Dataset.ipynb` - By running all the cells in this notebook, a time series cross-validation experiment of the France dataset will be conducted.
-* `4. Time Series Cross Validation for Turkey Dataset.ipynb` - By running all the cells in this notebook, a time series cross-validation experiment of the Turkey dataset will be conducted.
-* `5. Comparative Experiments EEMD_BO_LSTM.ipynb` - By running all the cells in this notebook,  a comparative experiment of the EEMD BO LSTM will be conducted.
-* `6. Comparative Experiments EMD_ENN.ipynb`- By running all the cells in this notebook, a comparative experiment of the EMD ENN will be conducted.
+* `3. Experiments for France Dataset-Time Series Cross Validation.ipynb` - By running all the cells in this notebook, a time series cross-validation experiment of the France dataset will be conducted.
+* `4. Experiments for Turkey Dataset-Time Series Cross Validation.ipynb` - By running all the cells in this notebook, a time series cross-validation experiment of the Turkey dataset will be conducted.
+* `5. Comparative Experiments.ipynb` - By running all the cells in this notebook,  a comparative experiment will be conducted.
 
 
