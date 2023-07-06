@@ -7,10 +7,10 @@ Please cite the paper if you utilize the code in this paper.
 
 ## Authors
 
-*Irene Karijadi, Shuo-Yan Chou, Anindhita Dewabharata*
+*Irene Karijadi*, Shuo-Yan Chou, Anindhita Dewabharata*
 
 
-*corresponding author: irenekarijadi92@gmail.com (Irene Karijadi)*
+**corresponding author: irenekarijadi92@gmail.com (Irene Karijadi)*
 
 ## Background
 A precise wind power forecast is required for the renewable energy platform to function effectively. By having a precise wind power forecast, the power system can better manage its supply and ensure grid reliability. However, the nature of wind power generation is intermittent and exhibits high randomness, which poses a challenge to obtain accurate forecasting results. In this study, a hybrid method is proposed based on Complete Ensemble Empirical Mode Decomposition with Adaptive Noise (CEEMDAN), Empirical Wavelet Transform (EWT), and deep learning-based Long Short-Term Memory (LSTM) for ultra-short-term wind power forecasting. A combination of CEEMDAN and EWT is used as the preprocessing technique, where CEEMDAN is first employed to decompose the original wind power data into several subseries and EWT denoising technique is used to denoise the highest frequency series generated from CEEMDAN. Then, LSTM is utilized to forecast all the subseries from CEEMDAN-EWT process, and the forecasting results of each subseries are aggregated to achieve the final forecasting results. The proposed method is validated on real-world wind power data in France and Turkey. Our experimental results demonstrate that the proposed method can forecast more accurately than the benchmarking methods.
