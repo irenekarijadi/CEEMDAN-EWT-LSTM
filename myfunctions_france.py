@@ -975,7 +975,6 @@ def proposed_method(new_data,i,look_back,data_partition,cap):
 
     epoch=100
     batch_size=32
-    neuron=32
     lr=0.001
     optimizer='Adam'
 
