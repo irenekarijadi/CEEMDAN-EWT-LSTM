@@ -7,7 +7,7 @@ Please cite the paper if you utilize the code in this paper.
 
 ## Authors
 
-*Irene Karijadi*, Shuo-Yan Chou, Anindhita Dewabharata*
+*Irene Karijadi*, Shuo-Yan Chou, Anindhita Dewabharata
 
 
 **corresponding author: irenekarijadi92@gmail.com (Irene Karijadi)*
