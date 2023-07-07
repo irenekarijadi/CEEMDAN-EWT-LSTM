@@ -1,0 +1,3 @@
+Source:
+1. France Dataset: Engie, The La Haute Borne wind farm,2018,[online] Available: https://opendata-renewables.engie.com/explore/?sort=modified
+2. Turkey Dataset: B. Erisen, Wind Turbine SCADA Dataset, 2018, [online] Available: https://www.kaggle.com/berkerisen/wind-turbine-scada-dataset
