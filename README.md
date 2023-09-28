@@ -3,7 +3,9 @@
 
 This is the original source code used for all experiments in the paper [Wind Power Forecasting Based on Hybrid CEEMDAN-EWT Deep Learning Method](https://www.sciencedirect.com/science/article/pii/S0960148123012727)
 
-Please cite the paper if you utilize the code in this paper.
+Please cite the paper if you utilize the code in this paper:
+
+
 Karijadi, I., Chou, S. Y., & Dewabharata, A. (2023). Wind power forecasting based on hybrid CEEMDAN-EWT deep learning method. Renewable Energy, 119357.
 
 
